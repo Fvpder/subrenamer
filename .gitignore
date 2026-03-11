@@ -3,3 +3,7 @@
 \dist
 
 *.spec
+
+\.venv
+\.vscode
+\.idea
